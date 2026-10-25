@@ -5,10 +5,8 @@
 
 <h1 align="center">
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_logo.jpeg" alt="🔥 Toffee 🔥" width="200"></a>
-  <br>
-  🔥 Toffee 🔥
-  <br>
+  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://raw.githubusercontent.com/reyad27s/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_logo.jpeg" alt="🔥 Toffee 🔥" width="200"></a>
+
 </h1>
 
 <h2 align="center">A Script to trigger the GitHub Actions every day to update the Toffee App Channels Link and Cookie </h2>
@@ -29,7 +27,7 @@
 </p>
 
 <h1 align="center">
- <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/banner.jpeg"></a>
+ <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="[https://github.com/reyad27s/Toffee-Channels-Link-Headers/blob/main/images/banner.jpeg](https://raw.githubusercontent.com/reyad27s/Toffee-Auto-Update-Playlist/refs/heads/main/banner.jpeg)"></a>
 </h1>
 
 # 📒Introdicton 
@@ -46,7 +44,7 @@
 
 ## 🕹️How To Use
 **For Developers**
-* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/main/toffee_channel_data.json)**
+* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/reyad27s/Toffee-Auto-Update-Playlist/main/toffee_channel_data.json)**
 * Use Get Request
 
 
@@ -55,7 +53,7 @@
 ```python
 import requests
 #Get updated the Link and Headers 
-link="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/main/toffee_channel_data.json"
+link="https://raw.githubusercontent.com/reyad27s/Toffee-Auto-Update-Playlist/main/toffee_channel_data.json"
 request=requests.get(link).json()
 
 name=request["name"]
@@ -98,13 +96,13 @@ print("✓ Response From Toffee Server : "+request_server.text)
 
 > [Program finished]
 <h1 align="center">
- <a href="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/main/toffee_channel_data.json"><img src="https://i.postimg.cc/YCBvB7vC/IMG-20251223-092632.jpg"></a>
+ <a href="https://raw.githubusercontent.com/reyad27s/Toffee-Auto-Update-Playlist/main/toffee_channel_data.json"><img src="https://i.postimg.cc/YCBvB7vC/IMG-20251223-092632.jpg"></a>
 </h1>
 
 # 🎬How To Play
 **📱Android**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_NS_Player.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/reyad27s/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_NS_Player.m3u)
 * 👆 Short Link :
   ```
   https://shorturl.at/heUyP
@@ -113,7 +111,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://d.apkpure.com/b/APK/studio.scillarium.ottnavigator?version=latest)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_OTT_Navigator.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/reyad27s/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_OTT_Navigator.m3u)
 *  👆 Short Link :
    ```
    https://shorturl.at/czHW8
@@ -121,10 +119,10 @@ print("✓ Response From Toffee Server : "+request_server.text)
 *  Enjoy 🫡
 
 <h1 align="center">
- <a href="#"><img src="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/ns_player.jpg"></a>
+ <a href="#"><img src="https://raw.githubusercontent.com/reyad27s/Toffee-Auto-Update-Playlist/refs/heads/main/ns_player.jpg"></a>
 </h1>
 <h1 align="center">
- <a href="#"><img src="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/ott_view.jpg"></a>
+ <a href="#"><img src="https://raw.githubusercontent.com/reyad27s/Toffee-Auto-Update-Playlist/refs/heads/main/ott_view.jpg"></a>
 </h1>
 
 # 🚬Credits
@@ -144,12 +142,12 @@ print("✓ Response From Toffee Server : "+request_server.text)
 ## CONNECT WITH US :
 
 [![Messenger](https://img.shields.io/badge/Messenger-Chat-blue?style=for-the-badge&logo=messenger)](https://m.me/j/AbZltMIVrGlcZi6j/)
-<a href="https://github.com/BINOD-XD"><img title="Github" src="https://img.shields.io/badge/BINOD-XD-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/reyad27s"><img title="Github" src="https://img.shields.io/badge/reyad27s-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/FACEBOOK-FOLLOW-red?style=for-the-badge&logo=facebook)](https://facebook.com/reyadbross)
 [![Instagram](https://img.shields.io/badge/FACEBOOK-FOLLOW-red?style=for-the-badge&logo=facebook)](https://facebook.com/tahosin.broos)
 [![Instagram](https://img.shields.io/badge/WHATSAPP-CHAT-red?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801989861704)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/reyadbros)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://BINOD-XD.github.io)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://reyad27s.github.io)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/shanto27)
 
 #### 💰YOU CAN HELP ME BY DONATING
